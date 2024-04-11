@@ -24,7 +24,7 @@ author:
   avatar           : "avatar.png"
   name             : "Nita Rudra"
   pronouns         : # example: "she/her"  
-  #bio              : "Short biography for the left-hand sidebar"
+  bio              : " "
   #location         : "Earth"
   employer         : "Georgetown University"
   uri              : # URL
