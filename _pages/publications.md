@@ -14,7 +14,7 @@ My body of work provides a thorough examination of how politics serves as a medi
 Articles
 ======
 
-## Globalization and the Politics of Poverty and Inequality
+### Globalization and the Politics of Poverty and Inequality
 ------
 
 * Cameron Ballard-Rosa, Judith Goldstein and Nita Rudra. “Trade as Villain: The Fading American Dream and Declining Support for Globalization.” Journal of Politics (2024)
@@ -46,7 +46,7 @@ Articles
 * Nita Rudra. “Openness, Welfare Spending, and Inequality in the Developing World.” International Studies Quarterly (2004)
 
 
-## Reassessing  Embedded Liberalism (Balancing Globalization and the Welfare State)
+### Reassessing  Embedded Liberalism (Balancing Globalization and the Welfare State)
 ------
 
 * Mansfield, Ed and Nita Rudra. “Embedded Liberalism in the Digital Era.” International Organization (2021)
@@ -58,7 +58,7 @@ Articles
 * Nita Rudra. “Globalization and the Decline of the Welfare State in Less Developed Countries,” International Organization (2002).
 
 
-## Democracy and Globalization
+### Democracy and Globalization
 ------
 
 * Chandra, Siddharth and Nita Rudra. “Reassessing the Links Between Regime Type and Economic Performance: Why Some Authoritarian Regimes Show Stable Growth and Others Do Not.” British Journal of Political Science (2014)
@@ -70,7 +70,7 @@ Articles
 * Rudra Nita and Stephan Haggard. “Globalization, Democracy and Effective Welfare Spending in Developing Countries.” Comparative Political Science (2005)
 
 
-## International Organizations, Globalization and Developing Countries
+### International Organizations, Globalization and Developing Countries
 ------
 
 *  Sera Linardi, Nita Rudra. “Globalization and Willingness to Support the Poor in Developing Countries: An Experiment in India.” Comparative Political Studies (2020)
