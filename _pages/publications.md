@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %} -->
 
-My body of work provides a thorough examination of how politics serves as a mediator in shaping the distributive outcomes of globalization. Specifically, my research uses the lens of international political economy to analyze the factors and mechanisms influencing the achievements or lack of success among various disadvantaged groups.
+My body of work provides a thorough examination of how politics serves as a mediator in shaping the distributive outcomes of globalization. Specifically, my research uses the lens of international political economy to analyze the factors and mechanisms influencing the achievements or lack of success among various disadvantaged groups. You can also find my articles on my [Google Scholar profile]("https://scholar.google.com/citations?user=OLH0DEwAAAAJ").
 
 Articles
 ======
