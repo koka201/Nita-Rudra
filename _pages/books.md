@@ -1,7 +1,8 @@
 ---
+layout: archive
 title: "Books"
-#excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: books
+permalink: /books/
+author_profile: true
 ---
 
 Democracies In Peril. Taxation and Redistribution in Globalizing Economies
