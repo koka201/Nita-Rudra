@@ -1,16 +1,17 @@
 ---
 title: "Publications"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+#excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: Publications
 ---
 
-Professor Rudra’s body of work provides a thorough examination of how politics serves as a mediator in shaping the distributive outcomes of globalization. Specifically, her research uses the lens of international political economy to analyze the factors and mechanisms influencing the achievements or lack of success among  various disadvantaged groups.
+My body of work provides a thorough examination of how politics serves as a mediator in shaping the distributive outcomes of globalization. Specifically, my research uses the lens of international political economy to analyze the factors and mechanisms influencing the achievements or lack of success among various disadvantaged groups.
 
 Articles
 ======
 
 Globalization and the Politics of Poverty and Inequality
 ------
+*  Sera Linardi, Nita Rudra. “Globalization and Willingness to Support the Poor in Developing Countries: An Experiment in India.” Comparative Political Studies (2020)
 
 * Cameron Ballard-Rosa, Judith Goldstein and Nita Rudra. “Trade as Villain: The Fading American Dream and Declining Support for Globalization.” Journal of Politics (2024)
 
@@ -67,8 +68,6 @@ Democracy and Globalization
 
 International Organizations, Globalization and Developing Countries
 ------
-
-*  Sera Linardi, Nita Rudra. “Globalization and Willingness to Support the Poor in Developing Countries: An Experiment in India.” Comparative Political Studies (2020)
 
 * Donno, Daniela and Nita Rudra. “David and Goliath? Small Developing Countries, Large Emerging Markets and South South Trade Agreements.” International Studies Quarterly (2019)
 
