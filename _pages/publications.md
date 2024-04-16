@@ -27,6 +27,8 @@ Articles
 
 * Mansfield, Ed, Milner Helen and Nita Rudra. “The Globalization Backlash: Exploring New Perspectives.” Comparative Political Studies (2021)
 
+*  Sera Linardi, Nita Rudra. “Globalization and Willingness to Support the Poor in Developing Countries: An Experiment in India.” Comparative Political Studies (2020)
+
 * Rudra, Nita, Meir Alkon and Siddharth Joshi. “FDI, Poverty and the Politics of Potable Water Access.” Economics and Politics (2018)
 
 * Raj M. Desai and Nita Rudra. “Trade, Poverty, and Social Protections in Developing Countries.” European Journal of Political Economy. (2018)
@@ -72,8 +74,6 @@ Articles
 
 ### International Organizations, Globalization and Developing Countries
 ------
-
-*  Sera Linardi, Nita Rudra. “Globalization and Willingness to Support the Poor in Developing Countries: An Experiment in India.” Comparative Political Studies (2020)
 
 * Donno, Daniela and Nita Rudra. “David and Goliath? Small Developing Countries, Large Emerging Markets and South South Trade Agreements.” International Studies Quarterly (2019)
 

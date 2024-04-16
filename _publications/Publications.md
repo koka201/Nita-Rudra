@@ -11,7 +11,6 @@ Articles
 
 Globalization and the Politics of Poverty and Inequality
 ------
-*  Sera Linardi, Nita Rudra. “Globalization and Willingness to Support the Poor in Developing Countries: An Experiment in India.” Comparative Political Studies (2020)
 
 * Cameron Ballard-Rosa, Judith Goldstein and Nita Rudra. “Trade as Villain: The Fading American Dream and Declining Support for Globalization.” Journal of Politics (2024)
 
@@ -22,6 +21,8 @@ Globalization and the Politics of Poverty and Inequality
 * Nita Rudra, Irfan Nooruddin, Niccolò W Bonifai. “Globalization backlash in developing countries: Broadening the research agenda.” Comparative Political Studies (2021)
 
 * Mansfield, Ed, Milner Helen and Nita Rudra. “The Globalization Backlash: Exploring New Perspectives.” Comparative Political Studies (2021)
+
+*  Sera Linardi, Nita Rudra. “Globalization and Willingness to Support the Poor in Developing Countries: An Experiment in India.” Comparative Political Studies (2020)
 
 * Rudra, Nita, Meir Alkon and Siddharth Joshi. “FDI, Poverty and the Politics of Potable Water Access.” Economics and Politics (2018)
 
