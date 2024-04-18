@@ -9,8 +9,8 @@ main:
   - title: "Selected Works"
     url: /Selected_Works/      
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  # - title: "Organized Conferences"
+  #   url: /Organized_Conferences/
         
   - title: "Blog Posts"
     url: /year-archive/
