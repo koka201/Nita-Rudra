@@ -9,9 +9,7 @@ Democracies In Peril. Taxation and Redistribution in Globalizing Economies
 ------
 
 
-**By Ida Bastiaens and Nita Rudra**
-
-**2018, Cambridge University Press.**
+**By Ida Bastiaens and Nita Rudra | 2018, Cambridge University Press.**
 
 ![](/images/A-Democratic-Dilemma.jpg){: .align-right width="300px"}
 
@@ -22,9 +20,7 @@ Who Really Gets Hurt? Globalization and the Race to the Bottom in Developing Cou
 ------
 
 
-**By Nita Rudra**
-
-**2008, Cambridge University Press.**
+**By Nita Rudra | 2008, Cambridge University Press.**
 
 ![](/images/Who-Really-Gets-Hurt.jpg){: .align-right width="300px"}
 

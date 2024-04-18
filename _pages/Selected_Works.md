@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %} -->
 
-"TRADE AS VILLAIN: BELIEF IN THE AMERICAN DREAM AND DECLINING SUPPORT FOR GLOBALIZATION." THE JOURNAL OF POLITICS (2024).
+## "TRADE AS VILLAIN: BELIEF IN THE AMERICAN DREAM AND DECLINING SUPPORT FOR GLOBALIZATION." THE JOURNAL OF POLITICS (2024).
 ------
 
 **By - Ballard-Rosa, Cameron, Goldstein, Judith L., and Rudra, Nita.** 
@@ -17,7 +17,7 @@ author_profile: true
 Why has US commercial policy become increasingly politicized in the twenty-first century? We argue that this politicization reflects an interaction between elite rhetoric on unfair trade practices and American meritocratic values. As the twenty-first century progressed, elites increasingly argued that economic malaise was a result of predatory practices by US trading partners. This “trade is unfair” rhetoric resonated most strongly with meritocratic Americans: individuals who believed in principles of market fairness but also worried about future economic prospects. To evaluate the argument that trade policy frames resonate differently among Americans, we draw on data from several survey experiments as well as a large, original panel data set with repeat observations of the same individuals. Individuals who are most tied to the myth of the classic American Dream are the most likely to respond to a frame blaming unfair trade for America’s economic problems, and this contributes to rising antiglobalization sentiment.
 
 
-"TRADE, POVERTY, AND SOCIAL PROTECTION IN DEVELOPING COUNTRIES." EUROPEAN JOURNAL OF POLITICAL ECONOMY (2018).
+## "TRADE, POVERTY, AND SOCIAL PROTECTION IN DEVELOPING COUNTRIES." EUROPEAN JOURNAL OF POLITICAL ECONOMY (2018).
 ------
 
 **By - Desai, Raj M and Rudra, Nita.**

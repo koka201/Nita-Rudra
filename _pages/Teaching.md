@@ -12,6 +12,8 @@ author_profile: true
 I teach a diverse array of subjects that include International Political Economy, International Relations, Comparative Political Economy, Political Economy of Development, Comparative Welfare Policy—which covers health, education, social security, and labor market protections—Globalization and States/Domestic Politics, and the Politics of Inequality.
 
 
+
+
 | Title                                | Semester    | Course Number | CRN   |
 |--------------------------------------|-------------|---------------|-------|
 | Globalization in Developing Economies | Spring 2019 | MIBP-842-40   | 36902 |
