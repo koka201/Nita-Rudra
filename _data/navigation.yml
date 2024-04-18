@@ -7,16 +7,16 @@ main:
     url: /books/
 
   - title: "Selected Works"
-    url: /Selected_Works/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
+    url: /Selected_Works/      
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Teaching"
+    url: /Teaching/  
     
   - title: "CV"
     url: /files/RudraCV.pdf
