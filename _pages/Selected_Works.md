@@ -73,5 +73,22 @@ GLOBALIZATION AND THE STRENGTHENING OF DEMOCRACY IN THE DEVELOPING WORLD AMERICA
 
 Scholars and policy makers have long assumed that trade and financial liberalization encourages developing countries to become more democratic; yet no one has developed formal hypotheses about the causal relationship between globalization and democracy. This article shows that these two trends are indeed related, but not necessarily in the direct manner that has commonly been postulated. Combining theories of embedded liberalism and conflict‐based theories of democracy, the model presented here depicts the process that affects decisions to strengthen democracy as trade and capital flows increase. I argue that increasing exposure to international export and financial markets leads to improvements in democracy if safety nets are used simultaneously as a strategy for providing stability and building political support. Empirical evidence is provided by econometric analysis covering 59 developing countries for the time period 1972–97.
 
+"GLOBALIZATION AND THE DECLINE OF THE WELFARE STATE IN LESS-DEVELOPED COUNTRIES." INTERNATIONAL ORGANIZATION 56.2 (2002): 411-445.
+------
+**By - Rudra, Nita.**
+
+Why have trends in government welfare spending in developing countries diverged from those in developed countries? I address this question by investigating the effects of capital and trade flows on government welfare spending in fifty-three developing countries. Using an original measure of labor power in developing countries, I test the links between international markets, labor's political strength, and the welfare state. I argue that labor's collective-action problems, caused by large populations of low-skilled and surplus workers, offset labor's potential political gains from globalization. I show that when the proportion of low-skilled workers in a nation is high, globalization will lead to a decline in welfare spending. Most significantly, the results suggest that in nations where labor-market institutions are not yet well developed, government social-welfare spending is constrained by international market, forces.
 
 
+“DAVID AND GOLIATH? HOW SMALL DEVELOPING ECONOMIES RESPOND TO LARGE EMERGING MARKETS INTERNATIONAL STUDIES QUARTERLY. FORTHCOMING
+------
+**By - Daniela Donno and Nita Rudra**
+
+Has the rise of large emerging economies influenced the foreign economic policies of smaller nations? Many of the BRICS’ (Brazil, Russia, India, China, South Africa) dominance in export markets for low-skilled goods pose a particular challenge for ‘surplus labor’ countries characterized by large populations of unskilled and under-employed labor. We theorize the incentives of firms and governments in surplus labor countries to form south-south preferential trade agreements (SSPTAs) as a means of diversifying and expanding trade relationships in the face of this enduring challenge. Of all the BRICS, our findings show that the countries forming the most South-South agreements are those whose exports have been most displaced by China. We verify this pattern using both systemic and country-specific measures of the China ‘shock’. Imports from China, in contrast, have no significant effect on SSPTA formation. Our account, which helps resolve the dual puzzle of declining trade with rich countries and the proliferation of SSPTAs in recent decades, underlines the implications of China’s rise on the developing world.
+
+
+"FDI, POVERTY, AND THE POLITICS OF POTABLE WATER ACCESS." ECONOMICS & POLITICS 30.3 (2018): 366-393.
+------
+**By - Rudra, Nita, Meir Alkon, and Siddharth Joshi.**
+
+How does foreign direct investment (FDI) affect the wellbeing of the poor? We address this question by analyzing the impacts of FDI on access to potable water. We predict that higher levels of greenfield FDI in water‐intensive sectors slow the rate of access to potable water in developing countries, with these adverse effects conditional on subnational politics. We hypothesize that this is more likely to occur in polities marked by relatively large poor and marginalized populations, where regulatory capture is more likely to occur. To test our intuition, we analyze subnational data on greenfield FDI in India, confirming that multinational investment in “thirsty” manufacturing sectors are negatively associated with improvements in potable water access. We then present a controlled comparison case study of two Indian states, Kerala and Rajasthan, highlighting the political mechanisms conditioning FDI's effects on potable water.
