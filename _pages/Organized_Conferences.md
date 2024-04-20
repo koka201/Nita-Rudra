@@ -10,23 +10,22 @@ author_profile: true
 {% endif %} -->
 
 
-## INTERNATIONAL POLITICAL ECONOMY SOCIETY ANNUAL MEETING
-
+**INTERNATIONAL POLITICAL ECONOMY SOCIETY ANNUAL MEETING**
 :   Georgetown University. Oct 27th-28th, 2023
 :   Organizers: Nita Rudra (Georgetown University)
-
+> Read More 
 
 ## ANALYZING THE ANTI-GLOBALIZATION BACKLASH
 
-:   Workshop in Florence, Italy, May 17-20, 2019
+Workshop in Florence, Italy, May 17-20, 2019
 :   Organizers: Nita Rudra, Ed Mansfield, Helen Milner, and Leo Baccini
-
+> Read More
 
 ## POLITICAL ECONOMY OF EMERGING MARKET COUNTRIES: THE CHALLENGE OF DEVELOPING MORE HUMANE SOCIETIES
 
 :   Kolkata, Shantiniketan, and New Delhi, India. 2017
 :   Organizers: Nita Rudra (Georgetown University) and Helen V. Milner (Princeton University) with Biju Paul Abraham (Indian Institute of Management- Calcutta)
-
+> Read More
 
 ## INTERNATIONAL POLITICAL ECONOMY SOCIETY ANNUAL MEETING
 
