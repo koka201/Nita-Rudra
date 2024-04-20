@@ -98,3 +98,9 @@ Articles (non-peer reviewed)
 * “Political Analysis of Decentralization: Capturing the Stakeholder Perspective Lessons Learned from the Bangladesh Study.” 2009. Social Development Notes. Social Analysis and Social Policy. World Bank, 118.
 
 
+Works in progress
+======
+
+* “Globalization, Informal Workers and the Missing Mass Support for Labor Market Reform in India and Mexico’ (With Andy Baker)
+
+* “FDI and the Politics of Informality” (with Helen Milner and S.P. Harish)
