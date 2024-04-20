@@ -19,42 +19,48 @@ author_profile: true
 
 ## ANALYZING THE ANTI-GLOBALIZATION BACKLASH
 
-Workshop in Florence, Italy, May 17-20, 2019
-Organizers: Nita Rudra, Ed Mansfield, Helen Milner, and Leo Baccini
+<address>
+ Workshop in Florence, Italy, May 17-20, 2019<br /> Organizers: Nita Rudra, Ed Mansfield, Helen Milner, and Leo Baccini
+</address>
 
 Read More
 
 ## POLITICAL ECONOMY OF EMERGING MARKET COUNTRIES: THE CHALLENGE OF DEVELOPING MORE HUMANE SOCIETIES
 
-Kolkata, Shantiniketan, and New Delhi, India. 2017
-Organizers: Nita Rudra (Georgetown University) and Helen V. Milner (Princeton University) with Biju Paul Abraham (Indian Institute of Management- Calcutta)
+<address>
+ Kolkata, Shantiniketan, and New Delhi, India. 2017<br /> Organizers: Nita Rudra (Georgetown University) and Helen V. Milner (Princeton University) with Biju Paul Abraham (Indian Institute of Management- Calcutta)
+</address>
 
-Read More
+[Read More](/files/POLITICAL-ECONOMY-OF-EMERGING-MARKET-COUNTRIES.pdf)
 
 ## INTERNATIONAL POLITICAL ECONOMY SOCIETY ANNUAL MEETING
 
-Georgetown University. 2014
-Organizers: Nita Rudra (Georgetown University)
+<address>
+ Georgetown University. 2014<br /> Organizers: Nita Rudra (Georgetown University)
+</address>
 
 Read More
 
 ## POLITICS OF THE CHANGING WORLD ECONOMY
 
-Sinquerim (Goa), India. 2013
-Organizers: Nita Rudra (Georgetown University) and Helen V. Milner (Princeton University) with Biju Paul Abraham (Indian Institute of Management- Calcutta)
+<address>
+ Sinquerim (Goa), India. 2013<br /> Organizers: Nita Rudra (Georgetown University) and Helen V. Milner (Princeton University) with Biju Paul Abraham (Indian Institute of Management- Calcutta)
+</address>
 
-Read More
+[Read More](/files/POLITICS-OF-THE-CHANGING-WORLD-ECONOMY.pdf)
 
 ## INTERNATIONAL POLITICAL ECONOMY COLLOQUIUM
 
-The Graduate School of Public and International Affairs (GSPIA), University of Pittsburgh, 2012
-Organizers: Nita Rudra (University of Pittsburgh)
+<address>
+ The Graduate School of Public and International Affairs (GSPIA), University of Pittsburgh, 2012<br /> Organizers: Nita Rudra (University of Pittsburgh)
+</address>
 
-Read More
+[Read More](/files/INTERNATIONAL-POLITICAL-ECONOMY-COLLOQUIUM.pdf)
 
 ## GLOBALIZATION AND THE POLITICS OF POVERTY AND INEQUALITY
 
-Indian Institute of Management, Bangalore, 2011
-Organizers: Nita Rudra (University of Pittsburgh) and Ken Scheve (Yale University) with Rajeev Gowda (Indian Institute of Management- BANGALORE)
+<address>
+ Indian Institute of Management, Bangalore, 2011<br /> Organizers: Nita Rudra (University of Pittsburgh) and Ken Scheve (Yale University) with Rajeev Gowda (Indian Institute of Management- BANGALORE)
+</address>
 
-Read More
+[Read More](/files/GLOBALIZATION-AND-THE-POLITICS-OF-POVERTY-AND-INEQUALITY.pdf)
