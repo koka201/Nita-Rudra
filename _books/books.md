@@ -9,7 +9,7 @@ Democracies In Peril. Taxation and Redistribution in Globalizing Economies
 **Ida Bastiaens and Nita Rudra**
 **2018, Cambridge University Press.**
 
-![A-Democratic-Dilemma](images/A-Democratic-Dilemma.jpg)
+![](images/democracies.jpeg)
 
 Globalization is triggering a 'revenue shock' in developing economies. International trade taxes - once the primary source of government revenue - have been cut drastically in response to trade liberalization. Bastiaens and Rudra make the novel argument that regime type is a major determinant of revenue-raising capacity once free trade policies have been adopted. Specifically, policymakers in democracies confront greater challenges than their authoritarian counterparts when implementing tax reforms to offset liberalization's revenue shocks. The repercussions are significant: while the poor bear the brunt of this revenue shortfall in democracies, authoritarian regimes are better-off overall. Paradoxically, then, citizens of democracies suffer precisely because their freer political culture constrains governmental ability to tax and redistribute under globalization. This important contribution on the battle between open societies and the ability of governments to help their people prosper under globalization is essential reading for students and scholars of political economy, development studies and comparative politics.
 
