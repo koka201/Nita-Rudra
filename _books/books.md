@@ -19,6 +19,6 @@ Who Really Gets Hurt? Globalization and the Race to the Bottom in Developing Cou
 **Nita Rudra**
 **2008. Cambridge University Press.**
 
-![Who-Really-Gets-Hurt](images/Who-Really-Gets-Hurt.jpg){: .align-right width="300px"}
+![](/images/globalization.jpg){: .align-right width="300px"}
 
 The advance of economic globalization has led many academics, policy-makers, and activists to warn that it leads to a 'race to the bottom'. In a world increasingly free of restrictions on trade and capital flows, developing nations that cut public services are risking detrimental effects to the populace. Conventional wisdom suggests that it is the poorer members of these societies who stand to lose the most from these pressures on welfare protections, but this new study argues for a more complex conceptualization of the subject. Nita Rudra demonstrates how and why domestic institutions in developing nations have historically ignored the social needs of the poor; globalization neither takes away nor advances what never existed in the first place. It has been the lower- and upper-middle classes who have benefited the most from welfare systems and, consequently, it is they who are most vulnerable to globalization's race to the bottom.
