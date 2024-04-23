@@ -58,4 +58,4 @@ Read More
  Indian Institute of Management, Bangalore, 2011<br /> Organizers: Nita Rudra (University of Pittsburgh) and Ken Scheve (Yale University) with Rajeev Gowda (Indian Institute of Management- BANGALORE)
 </address>
 
-[Read More](GLOBALIZATIONANDTHEPOLITICSOFPOVERTYANDINEQUALITY.pdf) 
+[Read More](/files/GLOBALIZATIONANDTHEPOLITICSOFPOVERTYANDINEQUALITY.pdf) 
