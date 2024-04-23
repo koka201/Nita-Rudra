@@ -26,7 +26,7 @@ Read More
  Kolkata, Shantiniketan, and New Delhi, India. 2017<br /> Organizers: Nita Rudra (Georgetown University) and Helen V. Milner (Princeton University) with Biju Paul Abraham (Indian Institute of Management- Calcutta)
 </address>
 
-[Read More](POLITICAL_ECONOMY_OF_EMERGING_MARKET_COUNTRIES.pdf)
+[Read More](POLITICALECONOMYOFEMERGINGMARKETCOUNTRIES.pdf)
 
 ## INTERNATIONAL POLITICAL ECONOMY SOCIETY ANNUAL MEETING
 
@@ -42,7 +42,7 @@ Read More
  Sinquerim (Goa), India. 2013<br /> Organizers: Nita Rudra (Georgetown University) and Helen V. Milner (Princeton University) with Biju Paul Abraham (Indian Institute of Management- Calcutta)
 </address>
 
-[Read More](POLITICS-OF-THE-CHANGING-WORLD-ECONOMY.pdf)
+[Read More](POLITICSOFTHECHANGINGWORLDECONOMY.pdf)
 
 ## INTERNATIONAL POLITICAL ECONOMY COLLOQUIUM
 
@@ -50,7 +50,7 @@ Read More
  The Graduate School of Public and International Affairs (GSPIA), University of Pittsburgh, 2012<br /> Organizers: Nita Rudra (University of Pittsburgh)
 </address>
 
-[Read More](files/INTERNATIONAL-POLITICAL-ECONOMY-COLLOQUIUM.pdf)
+[Read More](INTERNATIONALPOLITICALECONOMYCOLLOQUIUM.pdf) 
 
 ## GLOBALIZATION AND THE POLITICS OF POVERTY AND INEQUALITY
 
@@ -58,4 +58,4 @@ Read More
  Indian Institute of Management, Bangalore, 2011<br /> Organizers: Nita Rudra (University of Pittsburgh) and Ken Scheve (Yale University) with Rajeev Gowda (Indian Institute of Management- BANGALORE)
 </address>
 
-[Read More](files/GLOBALIZATION-AND-THE-POLITICS-OF-POVERTY-AND-INEQUALITY.pdf)
+[Read More](GLOBALIZATIONANDTHEPOLITICSOFPOVERTYANDINEQUALITY.pdf) 

@@ -17,5 +17,3 @@ My primary research and teaching fields include International political economy,
 
 
 My most recent book is [Democracies in Peril: Taxation and Redistribution in Globalizing Economies](https://www.cambridge.org/core/books/democracies-in-peril/97B48FD08F68A6BA369A881EBDA9B621), coauthored with Ida Bastiaens (Cambridge University Press 2018).
-
-
