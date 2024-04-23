@@ -5,11 +5,6 @@ permalink: /Organized_Conferences/
 author_profile: true
 ---
 
-<!-- {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %} -->
-
-
 ## INTERNATIONAL POLITICAL ECONOMY SOCIETY ANNUAL MEETING**
 
 <address>
@@ -31,7 +26,7 @@ Read More
  Kolkata, Shantiniketan, and New Delhi, India. 2017<br /> Organizers: Nita Rudra (Georgetown University) and Helen V. Milner (Princeton University) with Biju Paul Abraham (Indian Institute of Management- Calcutta)
 </address>
 
-[Read More](./files/POLITICAL_ECONOMY_OF_EMERGING_MARKET_COUNTRIES.pdf)
+[Read More](POLITICAL_ECONOMY_OF_EMERGING_MARKET_COUNTRIES.pdf)
 
 ## INTERNATIONAL POLITICAL ECONOMY SOCIETY ANNUAL MEETING
 
@@ -47,7 +42,7 @@ Read More
  Sinquerim (Goa), India. 2013<br /> Organizers: Nita Rudra (Georgetown University) and Helen V. Milner (Princeton University) with Biju Paul Abraham (Indian Institute of Management- Calcutta)
 </address>
 
-[Read More](Nita-Rudra/files/POLITICS-OF-THE-CHANGING-WORLD-ECONOMY.pdf)
+[Read More](POLITICS-OF-THE-CHANGING-WORLD-ECONOMY.pdf)
 
 ## INTERNATIONAL POLITICAL ECONOMY COLLOQUIUM
 
