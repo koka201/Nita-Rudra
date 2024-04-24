@@ -26,7 +26,7 @@ Read More
  Kolkata, Shantiniketan, and New Delhi, India. 2017<br /> Organizers: Nita Rudra (Georgetown University) and Helen V. Milner (Princeton University) with Biju Paul Abraham (Indian Institute of Management- Calcutta)
 </address>
 
-[Read More](/files/POLITICALECONOMYOFEMERGINGMARKETCOUNTRIES.pdf)
+[Read More](/Nita-Rudra//files/POLITICALECONOMYOFEMERGINGMARKETCOUNTRIES.pdf)
 
 ## INTERNATIONAL POLITICAL ECONOMY SOCIETY ANNUAL MEETING
 
@@ -42,7 +42,7 @@ Read More
  Sinquerim (Goa), India. 2013<br /> Organizers: Nita Rudra (Georgetown University) and Helen V. Milner (Princeton University) with Biju Paul Abraham (Indian Institute of Management- Calcutta)
 </address>
 
-[Read More](/files/POLITICSOFTHECHANGINGWORLDECONOMY.pdf)
+[Read More](/Nita-Rudra//files/POLITICSOFTHECHANGINGWORLDECONOMY.pdf)
 
 ## INTERNATIONAL POLITICAL ECONOMY COLLOQUIUM
 
@@ -50,7 +50,7 @@ Read More
  The Graduate School of Public and International Affairs (GSPIA), University of Pittsburgh, 2012<br /> Organizers: Nita Rudra (University of Pittsburgh)
 </address>
 
-[Read More](/files/INTERNATIONALPOLITICALECONOMYCOLLOQUIUM.pdf) 
+[Read More](/Nita-Rudra//files/INTERNATIONALPOLITICALECONOMYCOLLOQUIUM.pdf) 
 
 ## GLOBALIZATION AND THE POLITICS OF POVERTY AND INEQUALITY
 
