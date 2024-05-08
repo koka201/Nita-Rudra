@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %} -->
 
-My body of work provides a thorough examination of how politics serves as a mediator in shaping the distributive outcomes of globalization. Specifically, my research uses the lens of international political economy to analyze the factors and mechanisms influencing the achievements or lack of success among various disadvantaged groups. You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=OLH0DEwAAAAJ).
+My research focuses on how governments, labor, interest groups, institutions and firms impact various aspects of globalization. A central focus lies in examining the political economy factors and mechanisms that influence the welfare outcomes of marginalized groups. You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=OLH0DEwAAAAJ).
 
 Articles
 ======
