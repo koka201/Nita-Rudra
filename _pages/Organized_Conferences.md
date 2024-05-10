@@ -5,7 +5,7 @@ permalink: /Organized_Conferences/
 author_profile: true
 ---
 
-## INTERNATIONAL POLITICAL ECONOMY SOCIETY ANNUAL MEETING**
+## INTERNATIONAL POLITICAL ECONOMY SOCIETY ANNUAL MEETING
 
 <address>
  Georgetown University. Oct 27th-28th, 2023<br /> Organizers: Nita Rudra (Georgetown University)
