@@ -26,14 +26,14 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Professor<br>
   Department of Government"
-  #location         : "Earth"
+  #location         : "Arlington, Virgina"
   employer         : "Georgetown University"
+  googlescholar    : "https://scholar.google.com/citations?user=OLH0DEwAAAAJ"
   uri              : # URL
   email            : "nr404@georgetown.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=OLH0DEwAAAAJ"
   impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -72,6 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  
 
 
 # Site Settings
