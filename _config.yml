@@ -9,8 +9,6 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Nita Rudra's Homepage"
-logo                     : "nrudra.png"
-avatar                   : "/nrudra.png"
 title_separator          : "-"
 name                     : &name "Nita Rudra"
 description              : &description "personal description"
@@ -23,7 +21,7 @@ repository               : "cgsp-georgetown/Nita-Rudra.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  logo             : "/nrudra.png"              
+  logo             : "https://github.com/cgsp-georgetown/Nita-Rudra/blob/e474fddb50fa20a58614a34e2dcf7a0bc598509a/nrudra.jpeg"              
   avatar           : "https://github.com/cgsp-georgetown/Nita-Rudra/blob/e474fddb50fa20a58614a34e2dcf7a0bc598509a/nrudra.jpeg"
   name             : "Nita Rudra"
   pronouns         : # example: "she/her"  
