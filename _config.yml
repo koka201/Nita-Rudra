@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  logo             : "/nrudra.png"              
-  avatar           : "/nrudra.png"
+  logo             : "/nrudra.jpeg"              
+  avatar           : "/nrudra.jpeg"
   name             : "Nita Rudra"
   pronouns         : # example: "she/her"  
   bio              : "Professor<br>
