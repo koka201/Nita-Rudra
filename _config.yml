@@ -20,9 +20,8 @@ repository               : "cgsp-georgetown/Nita-Rudra.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  logo             : "https://github.com/cgsp-georgetown/Nita-Rudra/blob/e474fddb50fa20a58614a34e2dcf7a0bc598509a/nrudra.jpeg"              
-  avatar           : "https://github.com/cgsp-georgetown/Nita-Rudra/blob/e474fddb50fa20a58614a34e2dcf7a0bc598509a/nrudra.jpeg"
+  # Biographic information   
+  avatar           : "https://raw.githubusercontent.com/cgsp-georgetown/Nita-Rudra/e474fddb50fa20a58614a34e2dcf7a0bc598509a/nrudra.jpeg"
   name             : "Nita Rudra"
   pronouns         : # example: "she/her"  
   bio              : "Professor<br>
