@@ -24,7 +24,7 @@ repository               : "cgsp-georgetown/Nita-Rudra.github.io"
 author:
   # Biographic information
   logo             : "/nrudra.png"              
-  avatar           : "/nrudra.png"
+  avatar           : "https://github.com/cgsp-georgetown/Nita-Rudra/blob/e474fddb50fa20a58614a34e2dcf7a0bc598509a/nrudra.jpeg"
   name             : "Nita Rudra"
   pronouns         : # example: "she/her"  
   bio              : "Professor<br>
