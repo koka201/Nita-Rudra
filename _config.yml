@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Nita Rudra's Homepage"
+logo                     : "/nrudra.png"  
 title_separator          : "-"
 name                     : &name "Nita Rudra"
 description              : &description "personal description"
@@ -21,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  logo             : "/nrudra.jpeg"              
-  avatar           : "/nrudra.jpeg"
+  logo             : "/nrudra.png"              
+  avatar           : "/nrudra.png"
   name             : "Nita Rudra"
   pronouns         : # example: "she/her"  
-  bio              : "PRRofessor<br>
+  bio              : "Professor<br>
   Department of Government"
   #location         : "Arlington, Virgina"
   employer         : "Georgetown University"
