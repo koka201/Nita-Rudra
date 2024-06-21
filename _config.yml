@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Nita Rudra's Homepage"
-logo                     : "/nrudra.png"  
+logo                     : "/nrudra.png"
+avatar                   : "/nrudra.png"
 title_separator          : "-"
 name                     : &name "Nita Rudra"
 description              : &description "personal description"
