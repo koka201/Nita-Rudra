@@ -81,7 +81,7 @@ Why have trends in government welfare spending in developing countries diverged 
 
 ## ["David and Goliath? Small Developing Countries, Large Emerging Markets and South-South Trade Agreements." International Studies Quarterly 63.3 (2019): 574-588.](https://academic.oup.com/isq/article-abstract/63/3/574/5532837?redirectedFrom=fulltext&login=true)
 ------
-**By: Donno, Daniela and Rudra, Nita**
+**By: Donno, Daniela and Rudra, Nita.**
 
 Has the rise of large emerging economies influenced the foreign economic policies of smaller nations? Many of the BRICS’ (Brazil, Russia, India, China, South Africa) dominance in export markets for low-skilled goods pose a particular challenge for ‘surplus labor’ countries characterized by large populations of unskilled and under-employed labor. We theorize the incentives of firms and governments in surplus labor countries to form south-south preferential trade agreements (SSPTAs) as a means of diversifying and expanding trade relationships in the face of this enduring challenge. Of all the BRICS, our findings show that the countries forming the most South-South agreements are those whose exports have been most displaced by China. We verify this pattern using both systemic and country-specific measures of the China ‘shock’. Imports from China, in contrast, have no significant effect on SSPTA formation. Our account, which helps resolve the dual puzzle of declining trade with rich countries and the proliferation of SSPTAs in recent decades, underlines the implications of China’s rise on the developing world.
 
